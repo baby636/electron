@@ -51,7 +51,7 @@
     "klaw": "^3.0.0",
     "lint": "^1.1.2",
     "lint-staged": "^10.2.11",
-    "markdownlint": "^0.21.1",
+    "markdownlint": "^0.25.1",
     "markdownlint-cli": "^0.25.0",
     "minimist": "^1.2.5",
     "nugget": "^2.0.1",
