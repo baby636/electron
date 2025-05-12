@@ -50,7 +50,7 @@
     "husky": "^2.2.0",
     "klaw": "^3.0.0",
     "lint": "^1.1.2",
-    "lint-staged": "^10.2.11",
+    "lint-staged": "^16.0.0",
     "markdownlint": "^0.21.1",
     "markdownlint-cli": "^0.25.0",
     "minimist": "^1.2.5",
